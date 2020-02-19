@@ -7,7 +7,6 @@
 # Given a list of prices and an amount to spend, what is the maximum number of toys Mark can buy? For example, if  and Mark has  to spend, he can buy items  for , or  for  units of currency. He would choose the first group of  items.
 
 # Function Description
-
 # Complete the function maximumToys in the editor below. It should return an integer representing the maximum number of toys Mark can purchase.
 # maximumToys has the following parameter(s):
 # prices: an array of integers representing toy prices
